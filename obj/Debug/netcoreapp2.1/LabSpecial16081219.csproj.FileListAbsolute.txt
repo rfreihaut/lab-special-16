@@ -1,0 +1,11 @@
+C:\Users\rfrei\source\repos\LabSpecial16081219\bin\Debug\netcoreapp2.1\LabSpecial16081219.deps.json
+C:\Users\rfrei\source\repos\LabSpecial16081219\bin\Debug\netcoreapp2.1\LabSpecial16081219.runtimeconfig.json
+C:\Users\rfrei\source\repos\LabSpecial16081219\bin\Debug\netcoreapp2.1\LabSpecial16081219.runtimeconfig.dev.json
+C:\Users\rfrei\source\repos\LabSpecial16081219\bin\Debug\netcoreapp2.1\LabSpecial16081219.dll
+C:\Users\rfrei\source\repos\LabSpecial16081219\bin\Debug\netcoreapp2.1\LabSpecial16081219.pdb
+C:\Users\rfrei\source\repos\LabSpecial16081219\obj\Debug\netcoreapp2.1\LabSpecial16081219.csprojAssemblyReference.cache
+C:\Users\rfrei\source\repos\LabSpecial16081219\obj\Debug\netcoreapp2.1\LabSpecial16081219.csproj.CoreCompileInputs.cache
+C:\Users\rfrei\source\repos\LabSpecial16081219\obj\Debug\netcoreapp2.1\LabSpecial16081219.AssemblyInfoInputs.cache
+C:\Users\rfrei\source\repos\LabSpecial16081219\obj\Debug\netcoreapp2.1\LabSpecial16081219.AssemblyInfo.cs
+C:\Users\rfrei\source\repos\LabSpecial16081219\obj\Debug\netcoreapp2.1\LabSpecial16081219.dll
+C:\Users\rfrei\source\repos\LabSpecial16081219\obj\Debug\netcoreapp2.1\LabSpecial16081219.pdb
